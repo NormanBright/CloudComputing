@@ -1,0 +1,7 @@
+pip
+Flask
+cassandra-driver
+request
+requests
+requests_cache
+plotly
